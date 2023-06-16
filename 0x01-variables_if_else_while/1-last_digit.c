@@ -10,6 +10,10 @@
 
 int main(void)
 {
+/*
+ * main- print text according to number
+ *
+ */
 	int n, lasted;
 
 	srand(time(0));
